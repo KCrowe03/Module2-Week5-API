@@ -4,7 +4,7 @@ This project uses the free Wizard World API to explore how to pull and display d
 
 I created two simple scripts:
 
-elixir.py – pulls a list of magical elixirs
+elixir.py – pulls a list of magical elixirs  
 houses.py – pulls info about the four wizarding houses
 
 Each script makes a request to the API, turns the JSON into a pandas DataFrame, and prints a clean table.
@@ -16,7 +16,7 @@ Each script makes a request to the API, turns the JSON into a pandas DataFrame, 
 3. Make sure pandas is installed: pip install pandas
 4. Run either file:
 
-python elixir.py
+python elixir.py  
 python houses.py
 
 
